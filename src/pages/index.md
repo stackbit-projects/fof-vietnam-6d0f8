@@ -28,10 +28,7 @@ sections:
       - title: Sản Phẩm Chất Lượng
         content: Sản phẩm đạt chứng nhận an toàn sức khỏe người tiêu dùng
       - title: Ship Hàng
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: Miễn phí vận chuyển hàng toàn quốc 24/7
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
