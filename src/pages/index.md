@@ -14,7 +14,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Sản Phẩm
-    subtitle: An optional subtitle of the section
+    subtitle: 'Xem những sản phẩm của '
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
