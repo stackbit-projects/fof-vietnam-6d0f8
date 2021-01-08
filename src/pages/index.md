@@ -27,7 +27,7 @@ sections:
     grid_items:
       - title: Sản Phẩm Chất Lượng
         content: Sản phẩm đạt chứng nhận an toàn sức khỏe người tiêu dùng
-      - title: Service Title
+      - title: Ship Hàng
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
