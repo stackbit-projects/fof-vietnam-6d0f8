@@ -18,9 +18,7 @@ sections:
     projects_number: 4
     view_all_label: Xem Tất Cả
     view_all_url: portfolio
-  - section_id: >-
-      SẢN PHẨM CHẤT LƯỢNG Sản phẩm đạt chứng nhận an toàn sức khỏe người tiêu
-      dùng
+  - section_id: 'SẢN PHẨM CHẤT LƯỢNG '
     type: section_grid
     title: Tại sao nên chọn chúng tôi
     subtitle: An optional subtitle of the section
