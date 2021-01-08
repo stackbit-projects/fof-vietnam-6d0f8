@@ -2,7 +2,7 @@
 title: Mật Ong Chai 350ml
 subtitle: ''
 date: '2019-05-10'
-thumb_image: images/1_thumb.jpg
+thumb_image: images/z2252329066359_0f16a5fe97d0af0b2dbac35de46ef70b.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
