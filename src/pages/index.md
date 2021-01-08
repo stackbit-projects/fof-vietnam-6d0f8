@@ -40,7 +40,7 @@ sections:
     posts_number: 3
     col_number: three
     actions:
-      - label: Xem tất cả blog
+      - label: Xem tất cả
         url: blog
         style: button
 template: advanced
