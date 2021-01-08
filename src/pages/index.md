@@ -32,9 +32,7 @@ sections:
       - title: Cam Kết
         content: Hoàn tiền 200% nếu sản phẩm không đạt yêu cầu
       - title: Đóng Gói
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: Tất cả sản phẩm đều có tem niêm phong
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
