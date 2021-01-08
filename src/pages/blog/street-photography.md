@@ -7,7 +7,7 @@ date: '2019-03-10'
 thumb_image_alt: bee on hive
 image_alt: bee on hive
 template: post
-thumb_image: images/honeycomb-2.jpg
+thumb_image: images/honeycomb-med.jpg
 image: images/violet-apple.jpg
 ---
 
