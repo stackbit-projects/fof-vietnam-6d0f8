@@ -3,7 +3,7 @@ title: mật ong chai 1l
 subtitle: ''
 date: '2019-04-08'
 thumb_image: images/honey_1l.jpg
-thumb_image_alt: A yellow retro telephone on a yellow background
+thumb_image_alt: mật ong chai 1l
 image: images/3.jpg
 image_alt: A yellow retro telephone on a yellow background
 template: project
