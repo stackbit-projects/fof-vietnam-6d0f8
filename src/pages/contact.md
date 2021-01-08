@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - title: Vẫn còn thắc mắc?
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ''
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
