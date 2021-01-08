@@ -4,7 +4,7 @@ excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
   placerat lorem.
-date: '2020-01-27'
+date: '2020-01-01'
 thumb_image_alt: bee on flower
 image_alt: A pile of books on the table
 template: post
