@@ -6,7 +6,7 @@ excerpt: >-
   placerat lorem.
 date: '2020-01-01'
 thumb_image_alt: bee on flower
-image_alt: A pile of books on the table
+image_alt: bee on flower
 template: post
 thumb_image: images/bee_background_image.jpg
 image: images/curious-spinach.jpg
