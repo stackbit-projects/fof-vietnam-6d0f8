@@ -30,10 +30,7 @@ sections:
       - title: Ship Hàng
         content: Miễn phí vận chuyển hàng toàn quốc 24/7
       - title: Cam kết
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: Hoàn tiền 200% nếu sản phẩm không đạt yêu cầu
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
