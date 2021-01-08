@@ -4,7 +4,6 @@ excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
 date: '2019-12-24'
-thumb_image: images/honey-garlic-chicken-skillet.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
 image: images/11.jpg
 image_alt: A leather notebook and a pen on a wooden working table
