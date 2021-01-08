@@ -5,7 +5,7 @@ excerpt: >-
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
   placerat lorem.
 date: '2019-03-27'
-thumb_image_alt: A pile of books on the table
+thumb_image_alt: bee on flower
 image_alt: A pile of books on the table
 template: post
 thumb_image: images/bee_background_image.jpg
