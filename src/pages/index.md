@@ -7,7 +7,7 @@ sections:
     title: Chào Mừng Bạn Đến Với CTY TNHH Hoa Yêu Thương
     content: ''
     actions:
-      - label: ''
+      - label: Kết
         url: /contact
         style: button
   - section_id: latest-projects
