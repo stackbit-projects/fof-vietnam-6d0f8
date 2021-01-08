@@ -20,7 +20,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What We Do
+    title: Tại sao nên chọn chúng tôi
     subtitle: An optional subtitle of the section
     col_number: two
     is_numbered: true
