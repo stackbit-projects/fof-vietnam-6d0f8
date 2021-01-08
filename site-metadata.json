@@ -61,7 +61,7 @@
                 "label": "Zalo",
                 "url": "https://chat.zalo.me/",
                 "style": "icon",
-                "icon_class": "fa-dribbble",
+                "icon_class": "fa-zalo",
                 "new_window": true
             },
             {
