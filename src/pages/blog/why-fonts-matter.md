@@ -8,7 +8,7 @@ date: '2020-01-01'
 thumb_image_alt: bee on flower
 image_alt: bee on flower
 template: post
-thumb_image: images/bee_background_image.jpg
+thumb_image: images/bee-bg-med.jpg
 image: images/curious-spinach.jpg
 ---
 
