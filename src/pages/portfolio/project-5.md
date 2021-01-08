@@ -4,7 +4,7 @@ subtitle: ''
 date: '2019-01-05'
 thumb_image: images/combo_phuc_loc_tho.jpg
 thumb_image_alt: combo phuc loc tho
-image: images/5.jpg
+image: images/curious-chestnut.jpg
 image_alt: A white gamepad on a green background
 template: project
 ---
