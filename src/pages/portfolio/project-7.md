@@ -2,8 +2,7 @@
 title: ''
 subtitle: ''
 date: '2018-01-15'
-thumb_image_alt: A black headphones on a yeallow background
-image: images/7.jpg
+thumb_image_alt: ''
 image_alt: A black headphones on a yeallow background
 template: project
 ---
