@@ -37,7 +37,7 @@ sections:
     type: section_posts
     title: Blog
     subtitle: ''
-    posts_number: 3
+    posts_number: 4
     col_number: three
     actions:
       - label: Xem tất cả
