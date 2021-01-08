@@ -5,7 +5,7 @@ excerpt: >-
   sapien blandit ac amet faucibus aliquet placerat commodo.
 date: '2019-12-24'
 thumb_image_alt: ga nuong mat ong
-image_alt: A leather notebook and a pen on a wooden working table
+image_alt: ga nuong mat ong
 template: post
 thumb_image: images/terrific-spider.jpg
 image: images/friendly-rosemary.jpg
