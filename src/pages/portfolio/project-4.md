@@ -1,6 +1,6 @@
 ---
 title: đông trùng hạ thảo 5g
-subtitle: Optional Project Subtitle
+subtitle: ''
 date: '2019-02-26'
 thumb_image_alt: đông trùng hạ thảo
 image: images/robust-robin.jpg
