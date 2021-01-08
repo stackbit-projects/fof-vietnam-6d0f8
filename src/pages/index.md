@@ -14,7 +14,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Sản Phẩm
-    subtitle: 'Xem những sản phẩm của '
+    subtitle: Xem những sản phẩm của FOF Việt Nam từ mật ong rừng đến đông trùng ha
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
