@@ -29,7 +29,7 @@ sections:
         content: Sản phẩm đạt chứng nhận an toàn sức khỏe người tiêu dùng
       - title: Ship Hàng
         content: Miễn phí vận chuyển hàng toàn quốc 24/7
-      - title: Cam kết
+      - title: Cam Kết
         content: Hoàn tiền 200% nếu sản phẩm không đạt yêu cầu
       - title: Đóng Gói
         content: >-
