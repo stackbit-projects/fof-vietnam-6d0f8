@@ -25,9 +25,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: >-
-          SẢN PHẨM CHẤT LƯỢNG Sản phẩm đạt chứng nhận an toàn sức khỏe người
-          tiêu dùng
+      - title: SẢN PHẨM CHẤT LƯỢNG
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
