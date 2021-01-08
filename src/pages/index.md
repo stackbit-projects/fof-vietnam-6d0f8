@@ -29,7 +29,7 @@ sections:
         content: Sản phẩm đạt chứng nhận an toàn sức khỏe người tiêu dùng
       - title: Ship Hàng
         content: Miễn phí vận chuyển hàng toàn quốc 24/7
-      - title: Cam kê
+      - title: Cam kết
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
