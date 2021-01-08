@@ -7,16 +7,15 @@ sections:
     subtitle: ''
     image_alt: lorem-ipsum
     content: >-
-      ## Lorem ipsum
+      FOF luôn sẵn lòng trả lời các thắc mắc của bạn. Vui lòng liên hệ FOF tại:
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      * địa chỉ: 65/1 Nguyễn Minh Hoàng, Phường 12, Quận Tân Bình, TP Hồ Chí
+      Minh
 
+      * hotline: 0938291799 - 090 6805799
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      * email: khachhang.fofvietnam@gmail.com
     actions: []
     type: section_content
 template: advanced
