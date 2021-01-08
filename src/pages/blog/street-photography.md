@@ -5,7 +5,7 @@ excerpt: >-
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
 date: '2019-03-10'
 thumb_image_alt: bee on hive
-image_alt: Hello this way printed on a red metal gate
+image_alt: bee on hive
 template: post
 thumb_image: images/honeycomb-2.jpg
 image: images/violet-apple.jpg
