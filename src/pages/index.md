@@ -12,7 +12,7 @@ sections:
         style: button
   - section_id: latest-projects
     type: section_portfolio
-    layout_style: tiles
+    layout_style: mosaic
     title: Sản Phẩm
     subtitle: Xem những sản phẩm của FOF Việt Nam từ mật ong rừng đến đông trùng hạ thảo
     projects_number: 6
