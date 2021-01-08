@@ -44,7 +44,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
+                "label": "Facebook",
                 "url": "https://facebook.com/",
                 "style": "icon",
                 "icon_class": "fa-facebook",
