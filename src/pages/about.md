@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Về FOF
 subtitle: This is a short page about us and our work.
 image: images/bee_background_image.jpg
 image_alt: A man taking a picture
