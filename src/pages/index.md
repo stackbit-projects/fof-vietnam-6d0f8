@@ -27,6 +27,7 @@ sections:
     grid_items:
       - title: SẢN PHẨM CHẤT LƯỢNG
         content: Sản phẩm đạt chứng nhận an toàn sức khỏe người tiêu dùng
+        image: images/pngkey.com-checkmark-png-4418.png
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
