@@ -5,7 +5,7 @@ date: '2019-04-08'
 thumb_image: images/honey_1l.jpg
 thumb_image_alt: mật ong chai 1l
 image: images/melodic-stegosaurus.jpg
-image_alt: A yellow retro telephone on a yellow background
+image_alt: mật ong chai 1l
 template: project
 ---
 
