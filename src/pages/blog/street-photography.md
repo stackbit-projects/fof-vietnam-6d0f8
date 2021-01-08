@@ -1,5 +1,5 @@
 ---
-title: 'Cách '
+title: Cách khai thác mật ong rừng
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
