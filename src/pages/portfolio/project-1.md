@@ -4,7 +4,7 @@ subtitle: ''
 date: '2019-05-10'
 thumb_image: images/honey_350ml_thumbnail.png
 thumb_image_alt: mật ong chai 350ml
-image: images/marvelous-goose.jpg
+image: images/oval-lettuce.jpg
 image_alt: mật ong chai 350ml
 template: project
 ---
