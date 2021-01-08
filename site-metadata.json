@@ -58,13 +58,6 @@
                 "new_window": true
             },
             {
-                "label": "Zalo",
-                "url": "https://chat.zalo.me/",
-                "style": "icon",
-                "icon_class": "fa-phone",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "style": "icon",
