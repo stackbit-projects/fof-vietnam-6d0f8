@@ -4,7 +4,7 @@ subtitle: ''
 date: '2019-05-10'
 thumb_image: images/ultra-squid.jpg
 thumb_image_alt: mật ong chai 350ml
-image: images/oval-lettuce.jpg
+image: images/interesting-elm.jpg
 image_alt: mật ong chai 350ml
 template: project
 ---
