@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image_alt: đông trùng hạ thảo
 image: images/robust-robin.jpg
-image_alt: A table tennis racket on a pink background
+image_alt: đông trùng hạ thảo
 template: project
 thumb_image: images/dong_trung_ha_thao.jpg
 ---
