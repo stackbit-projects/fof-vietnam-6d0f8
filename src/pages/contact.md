@@ -2,7 +2,7 @@
 title: Liên Hệ
 hide_title: false
 sections:
-  - title: lorem-ipsum
+  - title: Vẫn còn thắc mắc?
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
