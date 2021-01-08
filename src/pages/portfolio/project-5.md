@@ -2,7 +2,6 @@
 title: Combo Phúc Lộc Thọ
 subtitle: ''
 date: '2019-01-05'
-thumb_image: images/combo_phuc_loc_tho.jpg
 thumb_image_alt: combo phuc loc tho
 image: images/curious-chestnut.jpg
 image_alt: combo phuc loc tho
