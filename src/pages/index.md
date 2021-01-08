@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Chào Mừng Bạn Đến Với CTY TNHH Hoa Yêu Thương
+    title: Chào Mừng Bạn Đến Với CTY TNHH Hoa Yêu Thương FOF Việt Nam
     content: ''
     actions:
       - label: Kết nối với chúng tôi
