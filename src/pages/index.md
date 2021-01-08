@@ -16,7 +16,7 @@ sections:
     title: Sản Phẩm
     subtitle: Xem những sản phẩm của FOF Việt Nam từ mật ong rừng đến đông trùng hạ thảo
     projects_number: 4
-    view_all_label: View All
+    view_all_label: Xem Tất Cả
     view_all_url: portfolio
   - section_id: services
     type: section_grid
