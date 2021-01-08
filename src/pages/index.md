@@ -26,10 +26,7 @@ sections:
     is_numbered: true
     grid_items:
       - title: SẢN PHẨM CHẤT LƯỢNG
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: Sản phẩm đạt chứng nhận an toàn sức khỏe người tiêu dùng
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
