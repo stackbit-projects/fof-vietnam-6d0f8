@@ -37,7 +37,8 @@
                 "style": "link"
             }
         ],
-        "logo_img": "images/logo_fof_vietnam.png"
+        "logo_img": "images/logo_fof_vietnam.png",
+        "logo_img_alt": "fof-vietnam"
     },
     "footer": {
         "content": "&copy; 2020 - Bản Quyền của cty TNHH Hoa Yêu Thương",
