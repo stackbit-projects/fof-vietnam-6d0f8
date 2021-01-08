@@ -25,7 +25,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: SẢN PHẨM CHẤT LƯỢNG
+      - title: Sản Phẩm Chất Lượng
         content: Sản phẩm đạt chứng nhận an toàn sức khỏe người tiêu dùng
       - title: Service Title
         content: >-
