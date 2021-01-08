@@ -8,5 +8,5 @@ image: images/interesting-elm.jpg
 image_alt: mật ong chai 350ml
 template: project
 ---
-# 450.000vnd# 
+# 450,000vnd# 
 ##### Thành Phần: 100% mật ong rừng nguyên chất
